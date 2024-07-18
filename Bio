@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Central Apprentices</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .person {
+            margin-bottom: 40px;
+        }
+        .person h2 {
+            color: #2c3e50;
+        }
+        .person h3 {
+            color: #34495e;
+        }
+        .person p {
+            margin: 5px 0;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Central Apprentices</h1>
+
+    <div class="person">
+        <h2>Seth Kassis</h2>
+        <p><strong>Social Accounts:</strong> <a href="https://instagram.com/seth_kassis" target="_blank">@seth_kassis</a></p>
+        <p><strong>Campus:</strong> Balboa</p>
+        <p><strong>Attendance Duration:</strong> 1 year</p>
+        <p><strong>Known PFA Leaders:</strong> David Liesch</p>
+        <p><strong>Consistent Tithing:</strong> Yes, 10% monthly</p>
+        <p><strong>Application Reference:</strong> David Liesch</p>
+        <p><strong>Character References:</strong> Pastor Morgan, Abraham Fluery, Ryan Johnson</p>
+        <p><strong>Serving Team:</strong> High School Youth Group (1 year)</p>
+        <p><strong>Connect Group:</strong> N/A (Serves Sunday nights, Awaken Recovery Tuesday nights)</p>
+        <h3>Faith Journey</h3>
+        <p>God mended a relationship at Emerge and helped overcome a video game addiction. Now focused on a serious relationship with God.</p>
+        <h3>Apprenticeship Motivation</h3>
+        <p>Desires to elevate business to serve God and others better.</p>
+        <h3>Professional Role</h3>
+        <p>Telecommunications company owner and technology broker.</p>
+        <p><strong>Industry Experience:</strong> 13 years</p>
+        <h3>Accomplishments</h3>
+        <ul>
+            <li>Top 25 salespeople in a nationwide organization.</li>
+            <li>First management role at 26, hired a future VP of Sales.</li>
+        </ul>
+        <h3>Focus in PFA</h3>
+        <p>Transition from sales professional to entrepreneur, growing a business to create future leaders with God at the center.</p>
+        <h3>Leadership Philosophy</h3>
+        <p>Learnt from mistakes as a sales manager and aims to lead with freedom from corporate culture, serving future employees.</p>
+        <h3>Current Learning</h3>
+        <ul>
+            <li><strong>Professional:</strong> Expanding knowledge in telecom and tech needs.</li>
+            <li><strong>Personal:</strong> Focusing solely on business.</li>
+            <li><strong>Spiritual:</strong> Trusting God with stress and goals, focusing on present effort.</li>
+        </ul>
+        <h3>Recent Challenge</h3>
+        <p>Refocused on business after financial strain and a rescinded job offer, leading to a new partnership and stability.</p>
+        <h3>Definition of Success</h3>
+        <p>Maximal effort and love for the process, not the outcome.</p>
+        <h3>Coachable Scale</h3>
+        <p>10</p>
+        <p><strong>Example:</strong> Applied advice on saving $600/month immediately.</p>
+        <h3>Cohort Contribution</h3>
+        <p>Sales expertise from 13 years of experience and training.</p>
+        <h3>Remaining Questions</h3>
+        <p>How best to help the group?</p>
+    </div>
+
+    <div class="person">
+        <h2>Patricia Schmitt</h2>
+        <p><strong>Social Accounts:</strong> <a href="https://facebook.com/PatriciaSchmitt" target="_blank">Facebook</a>, <a href="https://instagram.com/patyogaflow" target="_blank">@patyogaflow</a></p>
+        <p><strong>Campus:</strong> Bay Ho</p>
+        <p><strong>Attendance Duration:</strong> 1 year and 1 month (Bay Ho), 2 years (Balboa)</p>
+        <p><strong>Known PFA Leaders:</strong> Eli Kerch</p>
+        <p><strong>Consistent Tithing:</strong> Yes, consistently when employed</p>
+        <p><strong>Application Reference:</strong> Friend Daniel Hack</p>
+        <p><strong>Character References:</strong> Eli Kerch, Carole Kerch</p>
+        <p><strong>Serving Team:</strong> Hi Team (1 year)</p>
+        <p><strong>Connect Group:</strong> N/A (Language and schedule barriers)</p>
+        <h3>Faith Journey</h3>
+        <p>Found Awaken Church in 2019, committed after feeling welcomed by pastors. Active in various church activities and conferences.</p>
+        <h3>Apprenticeship Motivation</h3>
+        <p>Desires to learn success and influence others positively.</p>
+        <h3>Professional Role</h3>
+        <p>Lawyer in Brazil, now working in HR, Payroll, and Social Media Management for husband's handyman company.</p>
+        <p><strong>Industry Experience:</strong> 4 years in the US</p>
+        <h3>Accomplishments</h3>
+        <ul>
+            <li>Learned English and integrated into a new culture.</li>
+            <li>Transitioned from nanny to business management roles.</li>
+        </ul>
+        <h3>Focus in PFA</h3>
+        <p>Learn more about business and leadership.</p>
+        <h3>Leadership Philosophy</h3>
+        <p>Persistence and courage in facing new challenges.</p>
+        <h3>Current Learning</h3>
+        <ul>
+            <li><strong>Professional:</strong> HR and recruiting.</li>
+            <li><strong>Personal:</strong> Learning to be a godly wife.</li>
+            <li><strong>Spiritual:</strong> Deepening prayer and fasting practices.</li>
+        </ul>
+        <h3>Recent Challenge</h3>
+        <p>Understanding and accepting her purpose in the US.</p>
+        <h3>Definition of Success</h3>
+        <p>Happiness and satisfaction in efforts, regardless of monetary gain.</p>
+        <h3>Coachable Scale</h3>
+        <p>8</p>
+        <p><strong>Example:</strong> Quickly learned cooking in 2020.</p>
+        <h3>Cohort Contribution</h3>
+        <p>Optimistic, hardworking, and trustworthy personality.</p>
+        <h3>Remaining Questions</h3>
+        <p>None</p>
+    </div>
+
+    <div class="person">
+        <h2>Said Abdallah</h2>
+        <p><strong>Social Accounts:</strong> <a href="https://instagram.com/said_abdalah" target="_blank">@said_abdalah</a></p>
+        <p><strong>Campus:</strong> Balboa</p>
+        <p><strong>Attendance Duration:</strong> 1.5 years</p>
+        <p><strong>Known PFA Leaders:</strong> Ps Morgan, Ps John, Becky Jon Soriano
